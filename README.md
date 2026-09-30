@@ -19,7 +19,7 @@ Technologies used:
 
 ## Полноценный фронтенд сайта FutureTech
 
-Полноценная фронтенд сайта. Макет был взят из Figma.
+Полноценный фронтенд сайта. Макет был взят из Figma.
 
 [Ссылка на макет FutureTech](https://www.figma.com/design/YzTDRV7OaSoeCUBNYaoCZV/FutureTech?node-id=18-214&p=f&t=TOsPJ87MUPM0KDuy-0 "Figma")
 
